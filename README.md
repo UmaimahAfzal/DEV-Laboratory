@@ -1,13 +1,12 @@
-# DevOps Laboratory
+# DEV-Laboratory
 
-This repository contains my DevOps laboratory practice completed during my B.Tech CSE coursework.
+This repository contains my DevOps laboratory exercises and notes completed as part of my B.Tech CSE coursework.
 
-## Topics Covered
-- Git & GitHub
-- Branching and Merging
-- Pull Requests
-- GitHub Workflows
-- Basic Version Control
+Topics included:
+• Git & GitHub
+• Linux Commands
+• Docker Basics
+• Jenkins Basics
+• CI/CD Fundamentals
 
-## Purpose
-This repository was created to practice DevOps fundamentals and strengthen my understanding of Git and GitHub workflows through hands-on exercises.
+The purpose of this repository is to document my learning and practical exercises performed during laboratory sessions.
