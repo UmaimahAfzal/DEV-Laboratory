@@ -1,77 +1,57 @@
 # 🚀 DEV-Laboratory
 
-Git & GitHub laboratory repository documenting practical exercises completed during my B.Tech CSE DevOps coursework.
+This repository documents my Git & GitHub laboratory exercises completed as part of my B.Tech CSE DevOps coursework.
 
 ---
 
-## 🎯 Objectives
+## 📚 Objectives
 
 - Learn Git version control
 - Understand GitHub collaboration
 - Practice repository management
 - Explore GitHub Actions
-- Work with branches and pull requests
+- Work with collaborative development workflows
 
 ---
 
-## 🛠️ GitHub Features Practiced
+## ✅ GitHub Features Practiced
 
-- ✅ Repository Creation
-- ✅ Git Branching
-- ✅ Merging
-- ✅ Pull Requests
-- ✅ Issues
-- ✅ GitHub Discussions
-- ✅ GitHub Projects (Kanban Board)
-- ✅ GitHub Actions (Basic CI Workflow)
-
----
-
-## 📂 Repository Structure
-
-```text
-DEV-Laboratory
-│
-├── .github/
-│   └── workflows/
-│       └── blank.yml
-│
-├── Screenshots-/
-│   ├── Discussions.png
-│   ├── Issues.png
-│   ├── Project-Board.png
-│   └── Pull Requests.png
-│
-└── README.md
-```
+- Repository Creation
+- Git Branching
+- Branch Merging
+- Pull Requests
+- Issues
+- GitHub Discussions
+- GitHub Projects (Kanban Board)
+- GitHub Actions (Basic CI Workflow)
 
 ---
 
-## 📸 Screenshots
+## 📂 Repository Contents
 
-### GitHub Issues
-![Issues](Screenshots-/Issues.png)
-
----
-
-### Pull Requests
-![Pull Requests](Screenshots-/Pull%20Requests.png)
+- **README.md** – Repository documentation
+- **.github/workflows/** – Basic GitHub Actions workflow
+- **Screenshots-/** – Screenshots of GitHub features practiced during laboratory sessions
 
 ---
 
-### GitHub Discussions
-![Discussions](Screenshots-/Discussions.png)
+## 🎓 Learning Outcomes
+
+Through this repository, I gained practical experience with:
+
+- Git version control
+- Branching and merging workflows
+- Collaborative development using Pull Requests
+- Issue tracking
+- Project management using GitHub Projects
+- Team communication using GitHub Discussions
+- Basic Continuous Integration using GitHub Actions
 
 ---
 
-### GitHub Projects
-![Project Board](Screenshots-/Project-Board.png)
+## 💡 About This Repository
 
----
-
-## 📖 Learning Outcome
-
-This repository helped me gain practical experience with Git and GitHub by performing hands-on laboratory exercises involving repository management, collaboration workflows, and basic CI automation using GitHub Actions.
+This repository serves as a record of my hands-on Git & GitHub laboratory exercises and demonstrates my understanding of version control and collaboration tools used in modern software development.
 
 ---
 
